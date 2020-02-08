@@ -2,7 +2,7 @@
 
 [![Udacity Computer Vision Nanodegree](http://tugan0329.bitbucket.io/imgs/github/cvnd.svg)](https://www.udacity.com/course/computer-vision-nanodegree--nd891)
 
-My First Project of Computer Vision Nanodegree by Udacity - Detection of Facial Keypoints. 
+The First Project in the Computer Vision Nanodegree by Udacity - Detection of Facial Keypoints. 
 
 In this project, I built a CNN model for regression of 68 different facial keypoints.
 
