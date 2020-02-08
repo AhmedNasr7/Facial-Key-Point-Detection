@@ -11,13 +11,12 @@ following [rubric](https://github.com/udacity/P1_Facial_Keypoints/blob/master/RE
 
 You can find the Udacity Github repository for the project [here](https://github.com/udacity/P1_Facial_Keypoints).
 
+
 To run the project, install the dependencies as following
 
 ```
 pip install -r requirements.txt
-
 ```
-
 ![Alt](https://raw.githubusercontent.com/udacity/P1_Facial_Keypoints/master/images/key_pts_example.png)
 
 
